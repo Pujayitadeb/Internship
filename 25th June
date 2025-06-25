@@ -1,5 +1,5 @@
 PTG-1 Fluid Bed Checklist-run,completed
-E-track system-run,completed
+E-track system-run,completed 
 Data aggregation system-run,
 fette,3090i-run
 bmr,bpr
@@ -11,7 +11,7 @@ cleaning and filter checking record dedusting unit
 
 Logs done
 Checklist for Review of Audit Trail and Electronic Data for OPTEL Aggregation System
-Ensure availability of SCADA Report or segregated batch report. Audit trail should be part of alarm report.
+Checklist for Review of Audit Trail and Electronic Data for octagonal
 
 editing
 1.Equipment Product Cleaning Record For Feed Chamber / SS Container With Pneumatic Stirrer - OI-40/CL2/1
