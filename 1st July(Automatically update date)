@@ -1,0 +1,6 @@
+Ptg ,indore qc,it
+
+How to automatically today's date
+First create a parameter to an object which has properties date in it(Cleaning agent)
+then create a date parameter with a date(parameter) then link to object type cleaning agent then current date.
+then set automations
