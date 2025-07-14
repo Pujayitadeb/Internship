@@ -1,9 +1,29 @@
 disinfectant log
 prepared quantity must be less than left over quantity
 have to put automations
+
+
+
 there 6 types of automations
 created objects,object type properties 
 *Automations run in single and multi resource
 First column-Title 
 second-Indentifier
-both are single line text
+both are single line text 
+Set property- Drop down, Date,time
+SINGLE AND MULTI LINE CANT BE USED IN SET PROPERTY
+* increase AND DECREASE PROPERTY-NUMBER
+CONSTANT
+PARAMETER linked to another parameter here the number increasesb or decreases by the number input by the user
+
+
+*SET RELATION: 
+
+* Create Object at the start of the task_- Task given
+
+
+* We cannot create a job if the  job  is already created
+There are 2 automations I have to use'
+1. In use and 2. available
+and 1 validation
+
