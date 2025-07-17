@@ -5,10 +5,18 @@ Format : DETAILS OF AVAILABILITY OF METHOD VALIDATION / METHOD VERIFICATION / ME
 2.As per "column 4" There should be selection for either "method validate" , "method Verified" and "method transfer"  as sometimes the method is validated, sometimes it is verified and sometimes it is transferred. 
 
 
-Logs That should be discussed today
+Logs That should be discussed today and approved
 1. REQUEST FOR ASSIGNING / REMOVING ACCESS OF WORKSTATION
+QC- DETAILS OF AVAILABILITY OF METHOD VALIDATION / METHOD VERIFICATION / METHOD TRANSFER
+QA-1. UNIT COMPLAINT LOG(IN CASE OF TRACKWISE QMS SOFTWARE BREAKDOWN)
+2. UNIT COMPLAINT LOG(IN CASE OF TRACKWISE QMS SOFTWARE BREAKDOWN)
+
+3. COMPLAINT SAMPLE STORAGE AND DESTRUCTION RECORD
 
 
 logs that are done
 1. GENUINENESS VERIFICATION LOG(CORPORATE/UNIT)
 2. Log of field alert
+
+
+
