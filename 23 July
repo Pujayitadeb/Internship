@@ -1,0 +1,15 @@
+CHANGES I NEED TO CLARIFY
+1. SAMPLER USAGE AND CLEANING RECORD
+       Sampler Swabbing Frame Code - whether will every swabbing frame have a unique code ? If yes we will add it to the ontology under object type "Accessory Goa"
+       Die Capacity – This is a single-line text field. You can input both numeric values and text here.
+
+
+     2.  LOG FOR EMS IMPACT ASSESSMENT
+ whether it's unique
+
+ DOCUMENT / ITEM RETRIEVAL FORM
+ Handed over by
+ Quantity disposed(kg / liters): It's a number field .  You can add number here.
+ Question: Do you put NA here also.
+ 
+ 
